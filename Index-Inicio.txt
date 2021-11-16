@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go! Temakeria - Inicio</title>
+</head>
+<body>
+    <center><img src="topo1.jpg">
+        <hr width="57%">
+        <a href="Index-Inicio.html">Página Inicial |</a>
+        <a href="Cardapio.html">Cardápio |</a>
+        <a href="#">Localização |</a>
+        <a href="#">Cadastre-se |</a>
+        <a href="#">Acesso Restrito</a>
+        <hr width="57%">
+        <font color="black" face="tahoma">
+        <H3>Conheça a Go! Temakeria</H3>
+            <center><iframe width="560" height="315" src="https://www.youtube.com/embed/2VuI4sX_taY" title="YouTube video player" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <hr width="57%">
+    
+    </body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" type="text/css" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="incol" href="sushi.jpg"/>
+    <title>Go! Temakeria - Cardápio</title>
+</head>
+<body>
+    <center><img src="topo1.jpg">
+        <hr width="57%">
+        <a href="Index-Inicio.html">Página Inicial |</a>
+        <a href="Cardapio.html">Cardápio |</a>
+        <a href="#">Localização |</a>
+        <a href="#">Cadastre-se |</a>
+        <a href="#">Acesso Restrito</a>
+        <hr width="57%">
+        <font color="black" face="tahoma">
+        <h3>Conheça nosso cardápio!</h3>
+        <table border="1">
+            <tr>
+                <td><H4>Temaki Salmão com Cream Cheese</H4>
+                    <center><img src="1.jpg">
+                        <h1>R$ 16,99</h1></center></td>
+                    <td><H4>Temaki Sushi com Cream Cheese</H4>
+                    <center><img src="2.jpg">
+                        <h1>R$ 26,99</h1></center></td>
+                    <td><H4>Koni Crocante com Cream Cheese</H4>
+                    <center><img src="3.jpg">
+                        <h1>R$ 31,99</h1></center></td>
+                           
+            </tr>
+            <tr>
+                <td><H4>Koni Crocante com Batata Nacho</H4>
+                    <center><img src="4.jpg">
+                        <h1>R$ 32,99</h1></center></td>
+                <td><H4><center>Sunomono</H4>
+                   <center><img src="5.jpg">
+                        <h1>R$ 51,99</h1></center></td>
+                <td><H4><center>Hot-Holl de Camarão</H4>
+                        <center><img src="6.jpg" width="130" height="86">
+                                <h1>R$ 39,99</h1></center></td>          
+            </tr>
+        </table>
+    
+    </body>
+</html>

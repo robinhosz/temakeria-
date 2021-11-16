@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <link rel="stylesheet" type="text/css" href="estilo.css"
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go! Temakeria - Localização</title>
+</head>
+<body>
+    <center><img src="topo1.jpg">
+        <hr width="57%">
+        <a href="Index-Inicio.html">Página Inicial |</a>
+        <a href="Cardapio.html">Cardápio |</a>
+        <a href="Localizacao.html">Localização |</a>
+        <a href="#">Cadastre-se |</a>
+        <a href="#">Acesso Restrito</a>
+        <hr width="57%">
+    <h3>Nossa Localização</h3>
+    <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3950.062481340662!2d-34.88682648521993!3d-8.095111094172031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1f6ab541fb15%3A0xfa333f6f3994151e!2sGO*21%20Temakeria%20Express%20-%20Pina!5e0!3m2!1spt-BR!2sbr!4v1634689231508!5m2!1spt-BR!2sbr" 
+    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </body>
+</html>
